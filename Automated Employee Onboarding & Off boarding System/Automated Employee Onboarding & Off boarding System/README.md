@@ -1,9 +1,8 @@
 # Automated ServiceNow Solution for Employee Lifecycle Management
 
-**Created by:** AYUB HUSSAIN SHAIK  
-**Organization:** SKILLWALLET INTERNSHIP  
-**Team:** Development & Implementation Team  
-**Date:** 2026-07-01
+**Created by:** Shaik Bashirunnisa  
+**Organization:** Service now internship    
+**Date:** 2026-07-09
 
 ---
 
