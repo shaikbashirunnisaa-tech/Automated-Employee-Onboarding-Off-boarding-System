@@ -70,7 +70,11 @@ The initiative effectively deploys a **completely automated employee lifecycle a
 ---
 
 **Project Status:** ✅ Successfully Completed  
-**Created by:** AYUB HUSSAIN SHAIK  
-**Organization:** SKILLWALLET INTERNSHIP  
-**Team:** Development & Implementation Team  
-**Date:** 2026-07-01
+**Created by:**Shaik bashirunnisa  
+**Organization:** SKILLWALLET INTERNSHIP 
+**Team:** Nakka Venkateswarlu, Reddy Vamsi Mohana Krishna,
+Kancherla Prasanna Kumar,Pasupuleti Venkata Mahesh
+         
+          
+          
+**Date:** 2026-07-09
