@@ -71,19 +71,34 @@ The Employee Onboarding & Offboarding System is a ServiceNow-based workflow auto
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
-```
-Employee Onboarding & Offboarding
+```text
+Automated-Employee-Onboarding-Offboarding-System/
 │
-├── Service Catalog
-├── Record Producers
-├── Approval Flow
-├── Department Tasks
-├── Notifications
-├── SLA Configuration
-├── User Roles
-└── Reports & Dashboards
+├── Phase 1 Requirement Analysis & Planning/
+│   └── README.md
+│
+├── Phase 2 Backend Development & Configurations/
+│   └── README.md
+│
+├── Phase 3 UI/UX Development & Customization/
+│   └── README.md
+│
+├── Phase 4 Data Migration, Testing & Security/
+│   └── README.md
+│
+├── Phase 5 Deployment, Documentation & Final Presentation/
+│   └── README.md
+│
+├── Project Conclusion/
+│   └── README.md
+│
+├── demo-video/
+│
+├── screenshots/
+│
+└── README.md
 ```
 
 ---
